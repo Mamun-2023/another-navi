@@ -1,0 +1,15 @@
+.table{color: cornflowerblue;}
+.chair{background-color: brown;}
+.naviga{background-color: darkblue;}
+.book{text-decoration: overline;
+color: deeppink;}
+.joy{color: blue;}
+   nav>ul {display: flex ;}
+   nav li{list-style: none;
+    margin-right:10px ;
+  padding: 5px;}
+  nav li a{text-decoration: none;
+  color: blue;}
+  nav li :hover{background-color: green;}
+  nav li .udhaw{display: none;}
+  nav li:hover .udhaw {display: block;}
